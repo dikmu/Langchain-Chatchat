@@ -35,7 +35,7 @@ vllm>=0.2.0; sys_platform == "linux"
 # volcengine>=1.0.106 # fangzhou
 
 # uncomment libs if you want to use corresponding vector store
-# pymilvus==2.1.3 # requires milvus==2.1.3
+pymilvus==2.1.3 # requires milvus==2.1.3
 # psycopg2
 # pgvector
 
